@@ -1,0 +1,3 @@
+build:linux --cxxopt=-std=c++11
+build:linux --copt=-w
+build:linux --copt=-O3
