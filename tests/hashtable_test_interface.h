@@ -46,11 +46,11 @@
 
 #include <functional>  // for equal_to<>
 #include <sparsehash/internal/sparsehashtable.h>
-#include <sparsehash/sparse_hash_map>
-#include <sparsehash/sparse_hash_set>
+#include <sparsehash/sparse_hash_map.h>
+#include <sparsehash/sparse_hash_set.h>
 #include <sparsehash/internal/densehashtable.h>
-#include <sparsehash/dense_hash_map>
-#include <sparsehash/dense_hash_set>
+#include <sparsehash/dense_hash_map.h>
+#include <sparsehash/dense_hash_set.h>
 
 namespace google {
 

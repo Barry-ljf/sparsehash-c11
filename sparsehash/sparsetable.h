@@ -233,9 +233,6 @@
 #include <memory>     // uninitialized_copy, uninitialized_fill
 #include <vector>     // a sparsetable is a vector of groups
 #include <type_traits>
-// #include <sparsehash/internal/hashtable-common.h>
-// #include <sparsehash/internal/libc_allocator_with_realloc.h>
-// #include <sparsehash/traits>
 
 #include "sparsehash/internal/hashtable-common.h"
 #include "sparsehash/internal/libc_allocator_with_realloc.h"

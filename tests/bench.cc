@@ -80,8 +80,6 @@ extern "C" {
 #include <vector>
 #include <chrono>
 #include <type_traits>
-// #include <sparsehash/dense_hash_map>
-// #include <sparsehash/sparse_hash_map>
 
 #include "sparsehash/dense_hash_map.h"
 #include "sparsehash/sparse_hash_map.h"

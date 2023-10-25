@@ -87,8 +87,7 @@
 #include <functional>  // for equal_to<>, select1st<>, etc
 #include <memory>      // for alloc
 #include <utility>     // for pair<>
-// #include <sparsehash/internal/libc_allocator_with_realloc.h>
-// #include <sparsehash/internal/sparsehashtable.h>  // IWYU pragma: export
+
 
 #include "sparsehash/internal/libc_allocator_with_realloc.h"
 #include "sparsehash/internal/sparsehashtable.h"

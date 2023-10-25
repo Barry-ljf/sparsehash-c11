@@ -55,7 +55,7 @@
 #include <typeinfo>  // for class typeinfo (returned by typeid)
 #include <vector>
 #include <type_traits>
-#include <sparsehash/sparsetable>
+#include <sparsehash/sparsetable.h>
 #include "hashtable_test_interface.h"
 #include "fixture_unittests.h"
 #include "gtest/gtest.h"
