@@ -34,10 +34,10 @@
 // install' of sparsehash would be able to see.
 
 #include "gtest/gtest.h"
-#include <sparsehash/sparse_hash_set>
-#include <sparsehash/sparse_hash_map>
-#include <sparsehash/dense_hash_set>
-#include <sparsehash/dense_hash_map>
+#include "sparsehash/sparse_hash_set.h"
+#include "sparsehash/sparse_hash_map.h"
+#include "sparsehash/dense_hash_set.h"
+#include "sparsehash/dense_hash_map.h"
 
 using namespace testing;
 

@@ -3,7 +3,7 @@
 //
 
 #include "gtest/gtest.h"
-#include "sparsehash/dense_hash_set"
+#include "sparsehash/dense_hash_set.h"
 
 using google::dense_hash_set;
 

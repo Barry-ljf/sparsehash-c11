@@ -1,4 +1,4 @@
-#include <sparsehash/dense_hash_map>
+#include <sparsehash/dense_hash_map.h>
 #include <unordered_map>
 
 #include "fixture_unittests.h"

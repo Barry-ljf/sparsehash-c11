@@ -8,7 +8,7 @@
 #include <string>
 #include <type_traits>
 
-#include <sparsehash/sparsetable>
+#include <sparsehash/sparsetable.h>
 #include "hashtable_test_interface.h"
 
 #include "gtest/gtest.h"
